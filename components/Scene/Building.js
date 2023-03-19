@@ -14,7 +14,7 @@ export const Building = () => {
     <group>
         <MasjidLowPoly position={[190,0,-51]} rotation={[0,Math.PI,0]} />
         <SportCenter position={[180,0,-20]} />
-        {/* <Joglo position={[140,0,-28.1]} scale={0.3} /> */}
+        <Joglo position={[140,0,-28.1]} scale={0.3} />
         <Gate position={[-8,0,15]} rotation={[0,Math.PI,0]} scale={0.5} />
         <GdPelayanan position={[83,0,-31]} scale={1.5} />
         <Parkiran position={[79,0,-61]} scale={1.7} />
