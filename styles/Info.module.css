@@ -1,0 +1,59 @@
+.superContainer {
+  background-color: rgb(238, 237, 255);
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.wrapContent {
+  /* padding: 0;
+    margin: 0; */
+  box-sizing: border-box;
+}
+.contentCol {
+  margin: 0;
+  padding: 0;
+}
+.content {
+  padding: 10px;
+  margin: 5em 0;
+}
+.content h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  color: rgb(27, 19, 58);
+}
+.content p {
+  font-family: "Poppins";
+  font-style: normal;
+  color: rgba(34, 20, 51, 0.79);
+}
+.content3d {
+  width: auto;
+  height: 50vh;
+}
+.rowContent {
+  height: 50vh;
+}
+.title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  /* padding-top: 1em; */
+  color: #ff6ade;
+  margin: 0;
+}
+.wrapHeader{
+    display: flex;
+    margin-top: 30px;
+}
+.backBtn {
+/* margin-top: 20px; */
+  padding: 10px 15px;
+  background-color: rgb(250, 208, 110);
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  border-radius: 5px;
+  margin-right: 30px;
+}

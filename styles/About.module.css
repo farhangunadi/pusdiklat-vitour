@@ -1,0 +1,22 @@
+.superContainer{
+    background: #090617;
+    min-height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0; 
+}
+.container{
+    margin: 200px auto;
+    padding: 30px;
+    width: 50%;
+}
+.title{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}
+.desc{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.816);
+    font-size: 15px;
+}
